@@ -12,4 +12,4 @@ cqlsh:tech_women> select * from professionals_woman;
  28c78827-3e12-47bc-96a9-92522cb76fbd | Ciência da Computação, Linguagens de Programação |  1906 |                                   Criadora do primeiro compilador e da linguagem COBOL. | Estados Unidos |       Grace Hopper
  8df458bd-65b9-4308-875a-f6d51440454b |                Matemática, Ciência da Computação |  1918 |                                       Cálculos cruciais para missões espaciais da NASA. | Estados Unidos | Katherine Johnsonn
 
-(5 rows)
+POSTMAN URL: http://localhost:3000/womans
